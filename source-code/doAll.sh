@@ -17,8 +17,7 @@ python3 solver_optimization.py
 echo "Building a report and cleaning up cahce files..."
 cd ~/report
 make report
-make clean
 
-echo "Report .pdf should be in the report folder"
+echo "Report .pdf should be in the report folder. To clean cache files and delete report execute "make clean" in report folder"
 cd ~/scripts
 
