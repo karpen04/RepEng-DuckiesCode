@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Script Name: start.sh
+# Script Name: doAll.sh
 # Description: This script executes all scripts in order.
 # Author: Oleksandr Karpenko, karpen04@ads.uni-passau.de
-# Version: 1.0
+# Version: 1.1
 # SPDX-License-Identifier: MIT
 #
-# Usage: ./start.sh
+# Usage: ./doAll.sh
 
 echo "Running smoke.sh"
 bash ./smoke.sh
