@@ -8,6 +8,8 @@
 #
 # Usage: ./doAll.sh
 
+cd ~/scripts
+
 echo "Running smoke.sh"
 bash ./smoke.sh
 
